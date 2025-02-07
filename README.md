@@ -1,2 +1,1 @@
-# MyPageVital
-ASP.NET 
+# MyPage
